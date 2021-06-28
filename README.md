@@ -1,4 +1,4 @@
-# Rapid-Universal-Adapter
+# Rapid7-Universal-Adapter
 
 ConnectALL Rapid7 Adapter is developed as an extension to the Universal Adapter capability of ConnectALL. The adapter specifications will let the user sync vulnerabilities found by a InsightAppSec security scan to another endpoint using the ConnectALL Integration Hub. A common use is that to monitor and resolve vulnerabilites using an issue trsacking system like JIRA or Azure DevOps. The vulnerabilities can also be synched to a database (like ConnectALLs' Insights database) for futher analysis. As the vulnerability is worked on any changes to status, priority, etc. can be synched back to the smart sheet.
 
